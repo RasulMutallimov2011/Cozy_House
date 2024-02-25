@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+
+}
+
+.container {}
+
+.header {}
+
+.logo {}
+
+.nav {}
+
+.nav__list {
+   
+}
+
+.nav__item {}
+
+.nav__link {
+    
+}
